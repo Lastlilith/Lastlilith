@@ -1,7 +1,7 @@
 # Hi there, I'm Vladimir 👋 
 
 
-## I'm a Traveller, Sportsman and Android Apps Developer
+## I'm a Traveller, Sportsman and Android App Developer
 
 - 🌱 I’m currently learning everything about Android 🤣
 - 👯 I’m looking to collaborate with other developers and get more experience
