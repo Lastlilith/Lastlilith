@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning everything about Android 🤣
 - 👯 I’m looking to collaborate with other developers and get more experience
-- 🥅 2022 Goals: Learn more about Android and find an Android Developer job
+- 🥅 2022 Goals: Learn more about Android and get an Android Developer job
 - ⚡ Fun fact: I love to play guitar and sing weird songs
 
 ### Connect with me:
