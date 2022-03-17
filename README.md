@@ -19,6 +19,10 @@
 [![website](./img/instagram-light.svg)](https://www.instagram.com/lastlilith#gh-light-mode-only)
 [![website](./img/instagram-dark.svg)](https://www.instagram.com/lastlilith#gh-dark-mode-only)
 
+### My officially published app:
+
+[![unnamed (1)](https://user-images.githubusercontent.com/57666313/158775832-95e5d816-ce09-47dd-afb5-4b2394e9e169.png)](https://play.google.com/store/apps/details?id=com.imnidasoftware.numberpick)
+
 ### Languages and Tools:
 
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg)
