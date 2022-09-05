@@ -3,9 +3,9 @@
 
 ## I'm a Traveller, Sportsman and Android App Developer
 
-- 🌱 I’m currently learning everything about Android and Java 🤣
+- 🌱 I’m currently learning everything about Android, Java and Machine Learning integration 🤣
 - 👯 I’m looking to collaborate with other developers and get more experience
-- 🥅 2022 Goals: Learn more about Android and get an Android Developer job
+- 🥅 2022 Goals: Learn more about Android development and Machine Learning
 - ⚡ Fun fact: I love to play guitar and sing weird songs
 
 ### Connect with me:
