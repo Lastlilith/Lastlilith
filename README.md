@@ -3,7 +3,7 @@
 
 ## I'm a Traveller, Sportsman and Android App Developer
 
-- 🌱 I’m currently learning everything about Android, Java and Machine Learning integration 🤣
+- 🌱 I’m currently learning everything about Android development and Machine Learning integration 🤣
 - 👯 I’m looking to collaborate with other developers and get more experience
 - 🥅 2023 Goals: Learn more about Android development, including the backend side, and Machine Learning
 - ⚡ Fun fact: I love to play guitar, do indoor climbing, wrestling and singing weird songs
