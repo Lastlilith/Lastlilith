@@ -1,37 +1,24 @@
-# Hi there, I'm Vladimir 👋 
-
-
-## I'm a Traveller, Sportsman and Android App Developer
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://github.com/Lastlilith)
+<h1 align="center">Hi there👋, I'm Vladimir Vorozhtcov</h1>
+<h3 align="center">A passionate traveler, sportsman and Android App developer</h3>
+<img align="right" alt="Coding" width="400" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b76116d8ca04318c64edc047b5af9d42835722b71a087&rid=giphy.gif&ct=g"
 
 - 🌱 I’m currently learning everything about Android development and Machine Learning integration 🤣
 - 👯 I’m looking to collaborate with other developers and get more experience
-- 🥅 2023 Goals: Learn more about Android development, including the backend side, and Machine Learning
+- 🥅 2023 Goals: Learn more about Android development and Machine Learning
 - ⚡ Fun fact: I love to play guitar, do indoor climbing, wrestling and singing weird songs
 
-### Connect with me:
-
-[![website](./img/twitter-light.svg)](https://twitter.com/Lastlilith2014#gh-light-mode-only)
-[![website](./img/twitter-dark.svg)](https://twitter.com/Lastlilith2014#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://cn.linkedin.com/in/vladimir-vorozhtcov-294a80174#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://cn.linkedin.com/in/vladimir-vorozhtcov-294a80174#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://www.instagram.com/lastlilith#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://www.instagram.com/lastlilith#gh-dark-mode-only)
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/lastlilith2014" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="lastlilith2014" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/vladimir-vorozhtcov-294a80174" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vladimir-vorozhtcov-294a80174" height="30" width="40" /></a>
+<a href="https://instagram.com/lastlilith" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="lastlilith" height="30" width="40" /></a>
+</p>
 
 ### My officially published app:
 
 [![unnamed (1)](https://user-images.githubusercontent.com/57666313/158775832-95e5d816-ce09-47dd-afb5-4b2394e9e169.png)](https://play.google.com/store/apps/details?id=com.imnidasoftware.numberpick)
 
-### Languages and Tools:
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://aws.amazon.com/amplify/" target="_blank" rel="noreferrer"> <img src="https://docs.amplify.aws/assets/logo-dark.svg" alt="amplify" width="40" height="40"/> </a> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://ktor.io" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/57666313/210908958-30d2e841-22f2-475f-a05e-ef7fd7032788.png" alt="ktor" width="40" height="40"/> </a></p>
 
-[<img align="left" alt="Kotlin" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/v2.14.0/icons/kotlin/kotlin-original.svg" style="padding-right:10px;" />](https://raw.githubusercontent.com/devicons/devicon/v2.14.0/icons/kotlin/kotlin-original.svg)
-[<img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/v2.14.0/icons/java/java-original.svg" style="padding-right:10px;" />](https://raw.githubusercontent.com/devicons/devicon/v2.14.0/icons/java/java-original.svg)
-[<img align="left" alt="C++" width="26px" src="https://user-images.githubusercontent.com/57666313/212456763-244752d8-4dc5-48fc-a9ba-8a112d3bdf19.png" />]([https://user-images.githubusercontent.com/57666313/210908958-30d2e841-22f2-475f-a05e-ef7fd7032788.png](https://user-images.githubusercontent.com/57666313/212456763-244752d8-4dc5-48fc-a9ba-8a112d3bdf19.png))
-[<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg)
-[<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg)
-[<img align="left" alt="AndroidStudio" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/v2.14.0/icons/android/android-original.svg" style="padding-right:10px;" />](https://raw.githubusercontent.com/devicons/devicon/v2.14.0/icons/android/android-original.svg)
-[<img align="left" alt="Ktor" width="26px" src="https://user-images.githubusercontent.com/57666313/210908958-30d2e841-22f2-475f-a05e-ef7fd7032788.png" />](https://user-images.githubusercontent.com/57666313/210908958-30d2e841-22f2-475f-a05e-ef7fd7032788.png)
-[<img align="left" alt="SQLite" width="26px" src="https://user-images.githubusercontent.com/33158051/103467186-7b6a8900-4d1a-11eb-9907-491064bc8458.png" style="padding-right:10px;" />](https://user-images.githubusercontent.com/33158051/103467186-7b6a8900-4d1a-11eb-9907-491064bc8458.png)
-[<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg)
-[<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png" />](https://user-images.githubusercontent.com/3369400/139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png)
