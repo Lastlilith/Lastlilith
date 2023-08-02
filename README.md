@@ -13,6 +13,7 @@
 <a href="https://twitter.com/lastlilith2014" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="lastlilith2014" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/vladimir-vorozhtcov-294a80174" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vladimir-vorozhtcov-294a80174" height="30" width="40" /></a>
 <a href="https://instagram.com/lastlilith" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="lastlilith" height="30" width="40" /></a>
+<a href="https://leetcode.com/Lastlilith2014/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="lastlilith" height="30" width="40" /></a>
 </p>
 
 ### My officially published app:
