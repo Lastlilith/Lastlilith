@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning everything about Android development and Machine Learning integration 🤣
 - 👯 I’m looking to collaborate with other developers and get more experience
 - 🥅 2023 Goals: Learn more about Android development and Machine Learning
-- ⚡ Fun fact: I love to play guitar, do indoor climbing, wrestling and singing weird songs
+- ⚡ Fun fact: The deeper you learn any technology, the more you realize that you know nothing about it
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
