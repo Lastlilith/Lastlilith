@@ -3,9 +3,9 @@
 <h3 align="center">A passionate traveler, sportsman and Android App developer</h3>
 <img align="right" alt="Coding" width="400" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b76116d8ca04318c64edc047b5af9d42835722b71a087&rid=giphy.gif&ct=g"
 
-- 🌱 I’m currently learning everything about Android development and Machine Learning integration 🤣
+- 🌱 I’m currently learning everything about Data Science, Backend and Machine Learning 🤣
 - 👯 I’m looking to collaborate with other developers and get more experience
-- 🥅 2024 Goals: Learn more about Cross platform development, Machine Learning and backend development via Django
+- 🥅 2025 Goals: Learn more about Cross platform development, Machine Learning and backend development via Django and FastAPI
 - ⚡ Fun fact: The deeper you learn any technology, the more you realize that you know nothing about it
 
 <h3 align="left">Connect with me:</h3>
